@@ -1,0 +1,168 @@
+27/09/2021 03:45:19.389 Log started.
+27/09/2021 03:45:19.389 Unprotecting memory region '.text': 0x00001000 (size: 0x00456000)
+27/09/2021 03:45:19.389 Unprotecting memory region '.rdata': 0x00458000 (size: 0x0004C000)
+27/09/2021 03:45:19.389 Unprotecting memory region '.text': 0x008B1000 (size: 0x0064A000)
+27/09/2021 03:45:19.390 Unloading plugins...
+27/09/2021 03:45:19.390 Loading plugin cleo/FileSystemOperations.cleo
+27/09/2021 03:45:19.423 Loading plugin cleo/IniFiles.cleo
+27/09/2021 03:45:19.453 Loading plugin cleo/IntOperations.cleo
+27/09/2021 03:45:19.483 Loading plugin cleo/newOpcodes.cleo
+27/09/2021 03:45:19.513 Started on game of version: SA 1.0 us
+27/09/2021 03:45:19.513 Injecting MenuStatusNotifier...
+27/09/2021 03:45:19.513 Replacing call: 0x0057B9FD
+27/09/2021 03:45:19.513 Injecting DmaFix...
+27/09/2021 03:45:19.513 Replacing call: 0x0053E981
+27/09/2021 03:45:19.513 Injecting TextManager...
+27/09/2021 03:45:19.513 Injecting function at: 0x006A0050
+27/09/2021 03:45:19.513 Injecting SoundSystem...
+27/09/2021 03:45:19.513 Replacing call: 0x007487A8
+27/09/2021 03:45:19.513 Injecting CustomOpcodeSystem...
+27/09/2021 03:45:19.513 Injecting ScriptEngine...
+27/09/2021 03:45:19.513 Replacing call: 0x0046A21B
+27/09/2021 03:45:19.513 Replacing call: 0x0058D552
+27/09/2021 03:45:19.513 Replacing call: 0x0058FCE4
+27/09/2021 03:45:19.513 Replacing call: 0x0053BDD7
+27/09/2021 03:45:19.513 Replacing call: 0x005BA340
+27/09/2021 03:45:19.513 Replacing call: 0x005D4FD7
+27/09/2021 03:45:19.513 Replacing call: 0x005D18F0
+27/09/2021 03:45:19.513 Replacing call: 0x005D14D5
+27/09/2021 03:45:19.513 Injecting function at: 0x004667DB
+27/09/2021 03:45:20.610 Creating main window...
+27/09/2021 03:45:20.615 Found sound device 0: No sound
+27/09/2021 03:45:20.615 Found sound device 1 (default): Speakers (Realtek High Definition Audio)
+27/09/2021 03:45:20.615 Found sound device 2: Realtek Digital Output (Realtek High Definition Audio)
+27/09/2021 03:45:20.615 On system found 3 devices, 3 enabled devices, assuming device to use: 1 (Speakers (Realtek High Definition Audio))
+27/09/2021 03:45:20.628 SoundSystem initialized
+27/09/2021 03:45:20.631 Floating-point audio supported!
+27/09/2021 03:45:20.632 Audio hardware acceleration disabled (no EAX)
+27/09/2021 03:45:48.970 Scripts exclusively initialized
+27/09/2021 03:45:49.027 Deleting dynamic fxts...
+27/09/2021 03:45:49.028 Cleaning up script data... 0 files, 0 libs, 0 file scans, 0 allocations...
+27/09/2021 03:45:49.028 Searching for cleo scripts
+27/09/2021 03:45:49.028 Loading custom script 2048MB-StreamMemory.cs...
+27/09/2021 03:45:49.034 Registering custom script named 2048MB-
+27/09/2021 03:45:49.034 Loading custom script 60 FPS.cs...
+27/09/2021 03:45:49.042 Registering custom script named 60 FPS.
+27/09/2021 03:45:49.042 Loading custom script CER v.2.2.cs...
+27/09/2021 03:45:49.049 Registering custom script named CER v.2
+27/09/2021 03:45:49.049 Loading custom script cheats.cs...
+27/09/2021 03:45:49.054 Registering custom script named cheats.
+27/09/2021 03:45:49.054 Loading custom script D4FRasta.cs...
+27/09/2021 03:45:49.061 Registering custom script named D4FRast
+27/09/2021 03:45:49.062 Loading custom script FreeMovingCameraB2.cs...
+27/09/2021 03:45:49.067 Registering custom script named FreeMov
+27/09/2021 03:45:49.067 Loading custom script MemFix.cs...
+27/09/2021 03:45:49.071 Registering custom script named MemFix.
+27/09/2021 03:45:49.071 Loading custom script Odometr.cs...
+27/09/2021 03:45:49.076 Registering custom script named Odometr
+27/09/2021 03:45:49.076 Loading custom script PerPixelLighting.cs...
+27/09/2021 03:45:49.081 Registering custom script named PerPixe
+27/09/2021 03:45:49.081 Loading custom script RemoteControl v.2.2.cs...
+27/09/2021 03:45:49.086 Registering custom script named RemoteC
+27/09/2021 03:45:49.086 Loading custom script rev_counter.cs...
+27/09/2021 03:45:49.091 Registering custom script named rev_cou
+27/09/2021 03:45:49.091 Loading custom script Skin Selector.cs...
+27/09/2021 03:45:49.096 Registering custom script named Skin Se
+27/09/2021 03:45:49.096 Loading custom script SmoothCameraWork_Ver05.cs...
+27/09/2021 03:45:49.103 Registering custom script named SmoothC
+27/09/2021 03:45:49.103 Loading custom script steering.CS...
+27/09/2021 03:45:49.109 Registering custom script named steerin
+27/09/2021 03:45:49.109 Loading custom script sterring_plg.cs...
+27/09/2021 03:45:49.114 Registering custom script named sterrin
+27/09/2021 03:45:49.114 Loading custom script Teleport_to_marker.cs...
+27/09/2021 03:45:49.119 Registering custom script named Telepor
+27/09/2021 03:45:49.119 Loading custom script Termometr.cs...
+27/09/2021 03:45:49.124 Registering custom script named Termome
+27/09/2021 03:45:49.124 Loading custom script VehicleSpawner.cs...
+27/09/2021 03:45:49.130 Registering custom script named Vehicle
+27/09/2021 03:45:49.130 Loading custom script VWS v1.0.cs...
+27/09/2021 03:45:49.135 Registering custom script named VWS v1.
+27/09/2021 03:45:50.119 Added FXT[VWSTIT]
+27/09/2021 03:45:50.119 Added FXT[VWSAUT]
+27/09/2021 03:45:50.120 Added FXT[VWSSPW]
+27/09/2021 03:45:50.120 Added FXT[VWS1]
+27/09/2021 03:45:50.120 Added FXT[VWS2]
+27/09/2021 03:45:50.120 Added FXT[VWS3]
+27/09/2021 03:45:50.120 Added FXT[VWS4]
+27/09/2021 03:45:50.120 Added FXT[VWS5]
+27/09/2021 03:45:50.120 Added FXT[VWS6]
+27/09/2021 03:45:50.120 Added FXT[VWS7]
+27/09/2021 03:45:50.120 Added FXT[VWS8]
+27/09/2021 03:45:50.120 Added FXT[VWS9]
+27/09/2021 03:45:50.120 Added FXT[VWS10]
+27/09/2021 03:45:50.120 Added FXT[VWS11]
+27/09/2021 03:45:50.120 Added FXT[VWS12]
+27/09/2021 03:45:50.120 Added FXT[VWS13]
+27/09/2021 03:45:50.120 Added FXT[VWS14]
+27/09/2021 03:45:50.120 Added FXT[VWS15]
+27/09/2021 03:45:50.120 Added FXT[VWS16]
+27/09/2021 03:45:50.120 Added FXT[VWS17]
+27/09/2021 03:45:50.120 Added FXT[VWS18]
+27/09/2021 03:45:50.120 Added FXT[VWS19]
+27/09/2021 03:45:50.120 Added FXT[VWS20]
+27/09/2021 03:45:50.120 Added FXT[VWS21]
+27/09/2021 03:45:50.120 Added FXT[VWS22]
+27/09/2021 03:45:50.120 Added FXT[VWS23]
+27/09/2021 03:45:50.120 Added FXT[VWS24]
+27/09/2021 03:45:50.120 Added FXT[VWS25]
+27/09/2021 03:45:50.120 Added FXT[VWS26]
+27/09/2021 03:45:50.120 Added FXT[VWS27]
+27/09/2021 03:45:50.120 Added FXT[VWS28]
+27/09/2021 03:45:50.120 Added FXT[VWS29]
+27/09/2021 03:45:50.120 Added FXT[VWS30]
+27/09/2021 03:45:50.120 Added FXT[VWS31]
+27/09/2021 03:45:50.120 Added FXT[VWS32]
+27/09/2021 03:45:50.120 Added FXT[VWS33]
+27/09/2021 03:45:50.120 Added FXT[VWS34]
+27/09/2021 03:45:50.120 Added FXT[VWS35]
+27/09/2021 03:45:50.120 Added FXT[VWS36]
+27/09/2021 03:45:50.120 Added FXT[VWS37]
+27/09/2021 03:45:50.120 Added FXT[VWS38]
+27/09/2021 03:45:50.120 Added FXT[VWS39]
+27/09/2021 03:45:50.120 Added FXT[VWS40]
+27/09/2021 03:45:50.120 Added FXT[VWS41]
+27/09/2021 03:45:50.120 Added FXT[VWS42]
+27/09/2021 03:45:50.120 Added FXT[VWS43]
+27/09/2021 03:45:50.120 Added FXT[VWS44]
+27/09/2021 03:45:50.120 Added FXT[VWS45]
+27/09/2021 03:45:50.143 Unregistering custom script named MemFix.
+27/09/2021 03:45:50.148 Unregistering custom script named 2048MB-
+27/09/2021 03:45:51.405 [004E] Incorrect usage of opcode in script '60fps'.
+27/09/2021 03:45:51.405 Unregistering custom script named 60fps
+27/09/2021 03:47:09.332 [0A92] Starting new custom script UnloadTXD.s from thread named VWS v1.
+27/09/2021 03:47:09.332 Loading custom script UnloadTXD.s...
+27/09/2021 03:47:09.337 Registering custom script named UnloadT
+27/09/2021 03:47:09.389 [004E] Incorrect usage of opcode in script 'UnloadT'.
+27/09/2021 03:47:09.389 Unregistering custom script named UnloadT
+27/09/2021 03:47:10.495 [0A92] Starting new custom script UnloadTXD.s from thread named VWS v1.
+27/09/2021 03:47:10.495 Loading custom script UnloadTXD.s...
+27/09/2021 03:47:10.496 Registering custom script named UnloadT
+27/09/2021 03:47:10.504 [004E] Incorrect usage of opcode in script 'UnloadT'.
+27/09/2021 03:47:10.504 Unregistering custom script named UnloadT
+27/09/2021 03:55:24.669 Closing SoundSystem...
+27/09/2021 03:55:24.669 Freeing BASS library
+27/09/2021 03:55:24.670 SoundSystem closed!
+27/09/2021 03:55:24.670 Deleting fxts...
+27/09/2021 03:55:24.670 Unloading scripts...
+27/09/2021 03:55:24.670 Unregistering custom script named krrc
+27/09/2021 03:55:24.670 Unregistering custom script named cheats
+27/09/2021 03:55:24.670 Unregistering custom script named rasta maì:×;×
+27/09/2021 03:55:24.670 Unregistering custom script named freecam
+27/09/2021 03:55:24.670 Unregistering custom script named Odometr
+27/09/2021 03:55:24.670 Unregistering custom script named PerPixe
+27/09/2021 03:55:24.670 Unregistering custom script named krrc
+27/09/2021 03:55:24.670 Unregistering custom script named rev-spd
+27/09/2021 03:55:24.670 Unregistering custom script named skin_c
+27/09/2021 03:55:24.670 Unregistering custom script named smoothcw oÙ·oÙDoÙ
+27/09/2021 03:55:24.670 Unregistering custom script named newsvan
+27/09/2021 03:55:24.670 Unregistering custom script named sterrin
+27/09/2021 03:55:24.670 Unregistering custom script named tpin
+27/09/2021 03:55:24.670 Unregistering custom script named temp
+27/09/2021 03:55:24.671 Unregistering custom script named vehspwn
+27/09/2021 03:55:24.671 Unregistering custom script named VWS v1.
+27/09/2021 03:55:24.671 Deleting inactive script named MemFix.
+27/09/2021 03:55:24.671 Deleting inactive script named 2048MB-
+27/09/2021 03:55:24.671 Deleting inactive script named 60fps
+27/09/2021 03:55:24.671 Deleting inactive script named UnloadT
+27/09/2021 03:55:24.671 Deleting inactive script named UnloadT
+27/09/2021 03:55:24.671 Log finished.
